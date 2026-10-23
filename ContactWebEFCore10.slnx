@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="ContactWebEFCore10/ContactWebEFCore10.csproj" />
+  <Project Path="ContactWebModels/ContactWebModels.csproj" Id="46d3df46-edca-4433-b390-68debc8e77d2" />
 </Solution>
